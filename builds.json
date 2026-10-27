@@ -3,6 +3,18 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.23",
+   "code": 23,
+   "date": "2026-10-27",
+   "size": 101988745,
+   "sha256": "39ac0e868a560f29af25cd3612b311d1b0bc52526037952df9a96aa9e3526586",
+   "file": "ChibyRace-0.1.23.apk",
+   "notes": [
+    "Fjord Fortress: no more rocks hanging in the air. The flat rocks that hovered over the beaches are gone, and the grass-topped rock stacks that hung over the ravine and the island edges are now grey rock walls standing in the water.",
+    "Sakura Temple: the moon gates in the temple garden walls moved to the checkpoint, so they no longer open onto the trap pit."
+   ]
+  },
+  {
    "version": "0.1.22",
    "code": 22,
    "date": "2026-10-27",
