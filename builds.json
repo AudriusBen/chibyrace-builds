@@ -3,6 +3,19 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.21",
+   "code": 21,
+   "date": "2026-10-27",
+   "size": 101926821,
+   "sha256": "470a9a24c48086ce4d71efb47c3f734b72b66692e629e16abbfa1cc04bf1afa0",
+   "file": "ChibyRace-0.1.21.apk",
+   "notes": [
+    "New default graphics setting, BALANCED: 85% resolution, no ambient occlusion, shadows to 60 m and a slightly shorter view distance. It draws about half as much as HIGH, so the phone runs cooler.",
+    "The graphics button on the racer screen now switches BALANCED, HIGH and FAST. HIGH is the previous full quality.",
+    "Floor spikes stay completely hidden until they fire (they used to peek out while the ring was warning)."
+   ]
+  },
+  {
    "version": "0.1.20",
    "code": 20,
    "date": "2026-10-27",
