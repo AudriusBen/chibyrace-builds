@@ -3,6 +3,20 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.18",
+   "code": 18,
+   "date": "2026-10-27",
+   "size": 111554863,
+   "sha256": "8fdd55ab3c520e5eef9b6b328217d9a6cfd36403111962fff34d6578b8a545cd",
+   "file": "ChibyRace-0.1.18.apk",
+   "notes": [
+    "Medieval Village, Sakura Temple and Fjord Fortress have new ground. Riverbanks are gentle grass slopes, and the gorges have rock walls made of big rock blocks.",
+    "Nothing floats any more: fences, trees and rocks all sit on the ground.",
+    "Rolling wooded hills around the valleys replace the block-shaped hills, and trees grow in groves.",
+    "A clear blue sky on every map, without the yellow haze at the horizon."
+   ]
+  },
+  {
    "version": "0.1.17",
    "code": 17,
    "date": "2026-10-27",
