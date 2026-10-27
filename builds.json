@@ -3,6 +3,20 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.24",
+   "code": 24,
+   "date": "2026-10-27",
+   "size": 124316100,
+   "sha256": "fd903ac73c28df7da90327d8ddd0c21cedf23c8f71008ee71afc1b408ea6f214",
+   "file": "ChibyRace-0.1.24.apk",
+   "notes": [
+    "New map: Jungle Temple. A climbing race up a stepped pyramid: the jungle market street, the great stair between two giant statues, a cenote gorge, three stone tiers, and the finish 18 m up below the summit shrine.",
+    "New map: Pirate Cove. A tropical island: the harbour quay beside a moored galleon, the lagoon, up the cannon fort's sea wall, across a sea channel, up the lighthouse headland, and a treasure finish looking out to Skull Island.",
+    "Traps are dressed for both new maps: stone and wooden hurdles, masks and skull flags on the sweepers, a carved wall and a sea wall on the climb.",
+    "The download is bigger (118.6 MB) because of the two new maps."
+   ]
+  },
+  {
    "version": "0.1.23",
    "code": 23,
    "date": "2026-10-27",

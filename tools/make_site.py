@@ -20,6 +20,8 @@ MAPS = [
     ("map-sakura-temple.jpg", "Sakura Temple", "Lantern street, koi river and a pagoda finish."),
     ("map-medieval-village.jpg", "Medieval Village", "Cobbled high street, mill river and a castle."),
     ("map-modern-town.jpg", "Modern Town", "Main street, canal, building site and a glass tower."),
+    ("map-jungle-temple.jpg", "Jungle Temple", "A climb up a stepped pyramid: four stairs to a shrine 18 m up."),
+    ("map-pirate-cove.jpg", "Pirate Cove", "Harbour quay, lagoon, a cannon fort and a lighthouse headland."),
 ]
 
 
@@ -190,7 +192,7 @@ footer {{ padding-block: 40px calc(40px + env(safe-area-inset-bottom, 0px)); col
     <div>
       <p class="eyebrow">Android test builds</p>
       <h1>ChibyRace</h1>
-      <p class="lede">A party obstacle race: 8 racers, 4 maps, and traps that change every race.</p>
+      <p class="lede">A party obstacle race: 8 racers, {len(MAPS)} maps, and traps that change every race.</p>
       <a class="btn" href="{e(url(latest))}">
         <b>Download {e(latest['version'])}</b>
         <small>APK · {e(size_mb(latest['size']))}</small>
