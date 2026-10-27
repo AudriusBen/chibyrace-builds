@@ -1,5 +1,6 @@
 # Turns an APK pushed on an upload/* branch into a GitHub release, then deletes the branch.
-# Each upload branch holds upload/ChibyRace-<version>.apk and upload/ChibyRace-<version>.md (release notes).
+# Each upload branch holds upload/ChibyRace-<version>.apk (or .apk.part00, .part01, ... for big builds) and
+# upload/ChibyRace-<version>.md (release notes).
 name: Publish build
 on:
   push:
@@ -16,6 +17,13 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -e
+          # Builds over GitHub's 100 MB file limit arrive in parts: join them first.
+          for first in upload/*.apk.part00; do
+            [ -e "$first" ] || continue
+            apk="${first%.part00}"
+            cat "$apk".part* > "$apk"
+            rm "$apk".part*
+          done
           for apk in upload/*.apk; do
             v=$(basename "$apk" .apk); v=${v#ChibyRace-}
             if gh release view "v$v" >/dev/null 2>&1; then
