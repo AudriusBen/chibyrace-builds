@@ -10,7 +10,7 @@
    "sha256": "e23ca930fd338db8718ed5d2acbf6b03284358e7e6b8590001ad114bc2768401",
    "file": "ChibyRace-0.1.16.apk",
    "notes": [
-    "New painted buttons: the jump, dive and ability buttons from your concept art.",
+    "New painted buttons: the jump, dive and ability buttons from the concept art.",
     "Each racer has their own framed ability button; it greys out after use and fills with colour clockwise as it recharges, with a countdown badge.",
     "Ability names in brush lettering; the racer cards and results use the new ability buttons."
    ]
