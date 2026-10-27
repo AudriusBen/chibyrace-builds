@@ -1,0 +1,149 @@
+{
+ "repo": "AudriusBen/chibyrace-builds",
+ "minAndroid": "7.1",
+ "builds": [
+  {
+   "version": "0.1.13",
+   "code": 13,
+   "date": "2026-10-27",
+   "size": 100826082,
+   "sha256": "f789f7051a340beeba16ab771500fac83117221ee969155a9f8f7022f88d351d",
+   "file": "ChibyRace-0.1.13.apk",
+   "notes": [
+    "Real planks, cobblestones and paving slabs on the run surfaces.",
+    "Falling tiles keep their colour after they come back.",
+    "GRAPHICS FAST turns the new pieces off for slower phones."
+   ]
+  },
+  {
+   "version": "0.1.12",
+   "code": 12,
+   "date": "2026-10-26",
+   "size": 100635790,
+   "sha256": "a2d047decb1698cb3175a8d9a0c07a94ef31206613fbe464e75a051d1e934af4",
+   "file": "ChibyRace-0.1.12.apk",
+   "notes": [
+    "Cartoon surfaces: painted planks, stone, paving and ground."
+   ]
+  },
+  {
+   "version": "0.1.11",
+   "code": 11,
+   "date": "2026-10-26",
+   "size": 100199252,
+   "sha256": "a5a120b52dc59c0b6194d2b49b2d42391243b1db5110c4a58764386439202adf",
+   "file": "ChibyRace-0.1.11.apk",
+   "notes": [
+    "Graphics pass: smooth edges, soft shadows, ambient occlusion and glow.",
+    "GRAPHICS HIGH / FAST switch."
+   ]
+  },
+  {
+   "version": "0.1.10",
+   "code": 10,
+   "date": "2026-10-26",
+   "size": 96753912,
+   "sha256": "6dc36aa4a78788e1ca817eaa524e5ccb190f74e25118dff48a2545a40ea1ba5b",
+   "file": "ChibyRace-0.1.10.apk",
+   "notes": [
+    "8 characters with 36 skins.",
+    "3 jumps that recharge one at a time.",
+    "New ability buttons and visible ability effects."
+   ]
+  },
+  {
+   "version": "0.1.9",
+   "code": 9,
+   "date": "2026-10-26",
+   "size": 95799314,
+   "sha256": "19f533fd1ec724e24552cb20ac0519d65fb158a3653b6669e2bfe862765981f1",
+   "file": "ChibyRace-0.1.9.apk",
+   "notes": [
+    "Two more maps: Medieval Village and Modern Town."
+   ]
+  },
+  {
+   "version": "0.1.8",
+   "code": 8,
+   "date": "2026-10-26",
+   "size": 77025491,
+   "sha256": "814f530aab40a5b4fb1b277574da6e3b63ebab60ff91e3d9d46479daf1786396",
+   "file": "ChibyRace-0.1.8.apk",
+   "notes": [
+    "Fixed Sakura Temple starting with no racers."
+   ]
+  },
+  {
+   "version": "0.1.7",
+   "code": 7,
+   "date": "2026-10-26",
+   "size": 77027055,
+   "sha256": "646ffeac307caf61f2b38df8f336a1ef98c0fd8e56152c7136cc78b8ed0f7c27",
+   "file": "ChibyRace-0.1.7.apk",
+   "notes": [
+    "Second map: Sakura Temple.",
+    "MAP button on the select screen."
+   ]
+  },
+  {
+   "version": "0.1.6",
+   "code": 6,
+   "date": "2026-10-26",
+   "size": 61682967,
+   "sha256": "0433eabdc32be54f14288132d6ef80b99edc05d4a275611b27e5baa0bdca6be6",
+   "file": "ChibyRace-0.1.6.apk",
+   "notes": [
+    "The village is a real street with houses facing the track.",
+    "Spikes rise from grates, with a warning ring."
+   ]
+  },
+  {
+   "version": "0.1.5",
+   "code": 5,
+   "date": "2026-10-26",
+   "size": 62062975,
+   "sha256": "c09edce536693c7f7ae0f044e95712b629ca6ce14767eb9a5c608c32ca57739d",
+   "file": "ChibyRace-0.1.5.apk",
+   "notes": [
+    "Fixed blocks with missing tops.",
+    "Ladders climb faster than vines.",
+    "The Large Barbarian now rolls the barrels and logs."
+   ]
+  },
+  {
+   "version": "0.1.4",
+   "code": 4,
+   "date": "2026-10-26",
+   "size": 62043255,
+   "sha256": "82ea16f60cd981244a9f8797205bd93526fb9972e3d38d856f7dbe7a3e930c17",
+   "file": "ChibyRace-0.1.4.apk",
+   "notes": [
+    "New course: Fjord Fortress.",
+    "16 interchangeable traps that change every race."
+   ]
+  },
+  {
+   "version": "0.1.3",
+   "code": 3,
+   "date": "2026-10-26",
+   "size": 48726863,
+   "sha256": "6fc03ba88a189d78e6a7ba98048730a197ed488097ff3883cd2180c9a93ac52f",
+   "file": "ChibyRace-0.1.3.apk",
+   "notes": [
+    "Snappier controls, a dive that slides under bars, and climbing.",
+    "New course: Viking Fort Run."
+   ]
+  },
+  {
+   "version": "0.1.2",
+   "code": 2,
+   "date": "2026-10-26",
+   "size": 43256723,
+   "sha256": "1a16f2b202dca7b792d4fb92cc6c30b2e146335e177cf8dc799f16895933f898",
+   "file": "ChibyRace-0.1.2.apk",
+   "notes": [
+    "First phone build: the Medieval Trap Run course, 13 racers and 7 bots."
+   ]
+  }
+ ]
+}
