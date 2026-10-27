@@ -1,0 +1,28 @@
+# Turns an APK pushed on an upload/* branch into a GitHub release, then deletes the branch.
+# Each upload branch holds upload/ChibyRace-<version>.apk and upload/ChibyRace-<version>.md (release notes).
+name: Publish build
+on:
+  push:
+    branches: ['upload/**']
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create or update the releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          for apk in upload/*.apk; do
+            v=$(basename "$apk" .apk); v=${v#ChibyRace-}
+            if gh release view "v$v" >/dev/null 2>&1; then
+              gh release upload "v$v" "$apk" --clobber
+            else
+              gh release create "v$v" "$apk" --title "ChibyRace $v" --notes-file "upload/ChibyRace-$v.md" --target main
+            fi
+          done
+      - name: Delete the upload branch
+        run: git push origin --delete "$GITHUB_REF_NAME"
