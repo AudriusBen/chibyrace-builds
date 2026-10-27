@@ -3,6 +3,20 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.26",
+   "code": 26,
+   "date": "2026-10-28",
+   "size": 130963839,
+   "sha256": "7ecf921a3b95c06a8c80f5cce94ba6f1f03c561d853551f243a073846c5613b1",
+   "file": "ChibyRace-0.1.26.apk",
+   "notes": [
+    "GRAB: a new button above JUMP. Hold it next to a racer to catch hold of them: they slow down, can't jump and get pulled back toward you (a ring in your colour shows under their feet). A hold lasts up to 2 seconds. When you're grabbed, DIVE to break free. Bots grab too.",
+    "Bot difficulty: BOTS EASY / NORMAL / HARD on the racer screen.",
+    "Best times: your best race time on each map (racer screen, under the race timer, and on the results), and a pale ghost of that run races with you.",
+    "Coins: earned in races (by place) and shows (each round you go through, and the crown). Each racer's first skin is free; other skins cost 150 coins (UNLOCK on the racer screen). You start with 300 coins, and any skin you were already wearing stays yours."
+   ]
+  },
+  {
    "version": "0.1.25",
    "code": 25,
    "date": "2026-10-27",
