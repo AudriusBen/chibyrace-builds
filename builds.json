@@ -3,6 +3,18 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.14",
+   "code": 14,
+   "date": "2026-10-27",
+   "size": 100861410,
+   "sha256": "6468e70d20c4b5df595fff6dadc604663c3fb58d895c4de1b84152ff516ca4ac",
+   "file": "ChibyRace-0.1.14.apk",
+   "notes": [
+    "Back to the painted ground of 0.1.12: the real pieces of 0.1.13 looked unnatural, especially where surfaces change.",
+    "Falling tiles keep their colour after they come back."
+   ]
+  },
+  {
    "version": "0.1.13",
    "code": 13,
    "date": "2026-10-27",
@@ -10,9 +22,8 @@
    "sha256": "f789f7051a340beeba16ab771500fac83117221ee969155a9f8f7022f88d351d",
    "file": "ChibyRace-0.1.13.apk",
    "notes": [
-    "Real planks, cobblestones and paving slabs on the run surfaces.",
-    "Falling tiles keep their colour after they come back.",
-    "GRAPHICS FAST turns the new pieces off for slower phones."
+    "Real planks, cobblestones and paving slabs on the run surfaces (taken back out in 0.1.14).",
+    "Falling tiles keep their colour after they come back."
    ]
   },
   {
