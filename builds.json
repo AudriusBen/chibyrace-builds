@@ -3,6 +3,20 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.25",
+   "code": 25,
+   "date": "2026-10-27",
+   "size": 130695615,
+   "sha256": "9f46c1a21af14927ed92f73fda5fa076b9ebb230c644515b2a409e24e53f43ba",
+   "file": "ChibyRace-0.1.25.apk",
+   "notes": [
+    "New: SHOW mode. Four rounds with knockouts until one racer wins the crown: a race on the map you picked, two arena games, then a final. About a quarter of the racers go out each round (8, 6, 4, 3, then 1 winner).",
+    "Five arena games: Sweeper Survival (jump the low bar, dive under the high one, don't get knocked off), Sky Climb (a parkour climb through the sky to a finish 24 m up), Hex Fall (three layers of hex tiles that drop after you step on them), Memory Tiles (remember the green tiles before the others drop away), and Tile Rush (an LED floor: grab green tiles, jump the red lines, blue tiles are safe; most tiles goes through).",
+    "Knocked out? Watch the rest of the show (switch racer, or fast-forward x3) or leave. Crowns you win are counted on the racer screen.",
+    "RACE still plays a single race on the map."
+   ]
+  },
+  {
    "version": "0.1.24",
    "code": 24,
    "date": "2026-10-27",
