@@ -3,6 +3,20 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.20",
+   "code": 20,
+   "date": "2026-10-27",
+   "size": 102030025,
+   "sha256": "02c47d6b82ccdba256ea64bfbc071ad1bf0793ccabe3467a03d055cda5409e2c",
+   "file": "ChibyRace-0.1.20.apk",
+   "notes": [
+    "Lighter on the phone: still scenery is merged into a few large meshes, so each frame takes about a third as many draw calls. Fewer shadows are drawn, and shadows use two layers instead of three.",
+    "Sakura Temple: the stone walls beside the ramps are closed at the ends, so you can no longer see through them.",
+    "The ground no longer pokes up beside the ramps. The gorges have rock walls right up to the track.",
+    "Smaller download than 0.1.18."
+   ]
+  },
+  {
    "version": "0.1.18",
    "code": 18,
    "date": "2026-10-27",
