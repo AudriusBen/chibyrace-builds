@@ -3,6 +3,18 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.15",
+   "code": 15,
+   "date": "2026-10-27",
+   "size": 102346766,
+   "sha256": "8f84ecffdeada31b3217cbdb60470cab9ec9524c8ed3e1a93e31cfa021b14cd7",
+   "file": "ChibyRace-0.1.15.apk",
+   "notes": [
+    "Kerbs frame the track: rounded kerb stones (timber beams on Fjord Fortress) run along both edges and across every place where one surface meets another.",
+    "Trap floors that end at a drop get a kerb lip."
+   ]
+  },
+  {
    "version": "0.1.14",
    "code": 14,
    "date": "2026-10-27",
