@@ -3,6 +3,24 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.27",
+   "code": 27,
+   "date": "2026-10-28",
+   "size": 131735919,
+   "sha256": "eb0f95befbd99348d951fa93dcef9bf622ebd7e87131db6f25647c7953d17557",
+   "file": "ChibyRace-0.1.27.apk",
+   "notes": [
+    "Every map now has its own live event, starting a few seconds after GO:",
+    "Pirate Cove: the fort's cannons fire at the course. A red target ring shows where each ball lands and fills up as it comes down, so step out of it.",
+    "Medieval Village: catapult towers lob stones (orange rings).",
+    "Fjord Fortress: wooden catapults and the keep's cannons throw burning pots.",
+    "Sakura Temple: bamboo racks launch fireworks that burst where the pink rings are.",
+    "Jungle Temple: stone boulders roll across the terrace on two checkpoints. Wait while the red arrows flash.",
+    "Modern Town: cars cross the street on two checkpoints. Stop at the red light, go on green.",
+    "Bots see the rings and the traffic too and try to keep clear. A hit knocks you flying but never off the course on its own."
+   ]
+  },
+  {
    "version": "0.1.26",
    "code": 26,
    "date": "2026-10-28",
