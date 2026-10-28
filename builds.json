@@ -3,6 +3,20 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.31",
+   "code": 31,
+   "date": "2026-10-28",
+   "size": 136616257,
+   "sha256": "bbaf32a355eb82652cacb1cbf2be27e4bb358f738cabdeb527312fd22cfeed8c",
+   "file": "ChibyRace-0.1.31.apk",
+   "notes": [
+    "Sakura Temple show arenas: a SHOW started on Sakura Temple plays its arena rounds on cedar stages on red lacquer stilts over a mountain lake, with great torii standing in the water, sakura islands, a pagoda island, paper lanterns and drifting petals.",
+    "Hex Fall in sakura pink, bamboo green and lantern orange.",
+    "A new Sky Climb course for Sakura Temple: a bridge ramp with taiko drums rolling across it, a red lattice wall (or stone lamp steps), lotus pads that sink when you stand on them, bamboo balance poles, pagoda roof tiers and lacquered ledges up to the bell under the great torii.",
+    "Pirate Cove, Jungle Temple, Fjord Fortress and Sakura Temple have their own arenas now."
+   ]
+  },
+  {
    "version": "0.1.30",
    "code": 30,
    "date": "2026-10-28",
