@@ -3,6 +3,20 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.30",
+   "code": 30,
+   "date": "2026-10-28",
+   "size": 135513238,
+   "sha256": "c78927eec7d40bf44d86df7673ac347bf1d4eb9979b52c249e62201a3ecade9f",
+   "file": "ChibyRace-0.1.30.apk",
+   "notes": [
+    "Fjord Fortress show arenas: a SHOW started on Fjord Fortress plays its arena rounds on plank stages standing on sea stacks in a fjord, between mountain walls, with longships on the water, watch towers on islets and Viking banners on rock pillars.",
+    "Hex Fall in ice blue, Viking red and straw gold.",
+    "A new Sky Climb course for Fjord Fortress: up a ramp while logs roll down it, over the palisade (or up the ladder), a gate run under slamming portcullises, drifting ice floes, steps of round Viking shields and the keep wall up to the jarl's hall.",
+    "Pirate Cove, Jungle Temple and Fjord Fortress have their own arenas now."
+   ]
+  },
+  {
    "version": "0.1.29",
    "code": 29,
    "date": "2026-10-28",
