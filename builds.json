@@ -3,6 +3,20 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.29",
+   "code": 29,
+   "date": "2026-10-28",
+   "size": 134499641,
+   "sha256": "fcc13f32310aacffc105770215ada223077720351bc61c8cd39104b2f3ee4f6b",
+   "file": "ChibyRace-0.1.29.apk",
+   "notes": [
+    "Jungle Temple show arenas: a SHOW started on Jungle Temple plays its arena rounds on carved stone stages standing on temple columns high above a jungle valley, with a river, tree tops below, giant seated statues, stepped pyramids and braziers.",
+    "Sweeper Survival on a sun stone around a stone totem; Hex Fall in jade, gold and terracotta.",
+    "A new Sky Climb course for Jungle Temple: a great stair with spike traps on the landing, a vine wall (or steps of carved stone heads), a sun stone swept by a spinning log and a stone beam, a crumbling stone bridge, broken columns and carved ledges up to the golden idol.",
+    "Pirate Cove and Jungle Temple have their own arenas now; the other maps still use the sky stages."
+   ]
+  },
+  {
    "version": "0.1.28",
    "code": 28,
    "date": "2026-10-28",
