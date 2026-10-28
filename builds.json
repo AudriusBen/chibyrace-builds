@@ -3,6 +3,21 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.28",
+   "code": 28,
+   "date": "2026-10-28",
+   "size": 133666624,
+   "sha256": "e22fa55e2bd40bbbb4724f16a522ac757f220844cb92e789294730c5ac44a1bd",
+   "file": "ChibyRace-0.1.28.apk",
+   "notes": [
+    "Pirate show arenas: a SHOW started on Pirate Cove now plays its arena rounds in pirate versions, on wooden stages standing on piles over a lagoon, with pirate ships at anchor, Skull Island and palm islands around.",
+    "Sweeper Survival on a ship's deck around a capstan, with a red spar and an iron bar.",
+    "Hex Fall in sand, coral and sea colours; Memory Tiles and Tile Rush on the lagoon stages.",
+    "A new Sky Climb course for Pirate Cove: giant barrels in the water, a rope net up a ship's side (or the crate stair), walking the plank under three swinging cannonballs, drifting rafts, mast-top hops and crate ledges up to the treasure deck.",
+    "The other maps still use the sky stages for now; their own arenas come next."
+   ]
+  },
+  {
    "version": "0.1.27",
    "code": 27,
    "date": "2026-10-28",
