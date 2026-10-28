@@ -3,6 +3,20 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.33",
+   "code": 33,
+   "date": "2026-10-28",
+   "size": 139361985,
+   "sha256": "79f558d646363caa28708a4d87afde899dfab4caf888f8218959eebc450c8a45",
+   "file": "ChibyRace-0.1.33.apk",
+   "notes": [
+    "Modern Town show arenas: a SHOW started on Modern Town plays its arena rounds on helipad stages on top of glass towers, with high-rises, cranes and streets full of cars far below.",
+    "Hex Fall in neon pink, cyan and lime.",
+    "A new Sky Climb course for Modern Town: a rooftop car park with traffic crossing it (stop at the red lights), the car park ramp, scaffolding (or a stack of pallets), a roof walkway under two swinging wrecking balls, steel plates hanging from cranes, rooftop vents and building setbacks up to the helipad.",
+    "Every map now has its own show arenas and its own Sky Climb."
+   ]
+  },
+  {
    "version": "0.1.32",
    "code": 32,
    "date": "2026-10-28",
