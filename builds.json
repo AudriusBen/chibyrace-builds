@@ -3,6 +3,20 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.32",
+   "code": 32,
+   "date": "2026-10-28",
+   "size": 137917480,
+   "sha256": "3d4d7ca294f029ed225ebc37c31f2bbf281f7a740409a85bcbdd64082536dded",
+   "file": "ChibyRace-0.1.32.apk",
+   "notes": [
+    "Medieval Village show arenas: a SHOW started on Medieval Village plays its arena rounds on cobbled stages on top of round castle towers above a green valley with a river, wheat fields, farms, a windmill, sheep and the castle on the hill, with heraldic flags round the stage.",
+    "Hex Fall in heraldic red, royal blue and gold.",
+    "A new Sky Climb course for Medieval Village: the jousting field (fences to jump, spike strips to time), a castle ramp with barrels rolling down it in lanes, the moat bridge with a hole (or stepping stones), the castle wall (or a stack of supply crates), turret tops and the keep up to the king's banners.",
+    "Five maps have their own arenas now; Modern Town is next."
+   ]
+  },
+  {
    "version": "0.1.31",
    "code": 31,
    "date": "2026-10-28",
