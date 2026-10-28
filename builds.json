@@ -3,6 +3,19 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.34",
+   "code": 34,
+   "date": "2026-10-28",
+   "size": 140699731,
+   "sha256": "5641389414d9012bd9faa1457cc8143d545927eb4ef783ff274f04bbb1173234",
+   "file": "ChibyRace-0.1.34.apk",
+   "notes": [
+    "Painted menus: every menu button (RACE, SHOW!, MAP, GRAPHICS, BOTS, RACE AGAIN, WATCH, LEAVE SHOW, NEXT...) now has a steel frame, gold trim and a glossy coloured face to match the in-game buttons.",
+    "All text uses the comic Bangers font of the ability labels, with a thick dark outline.",
+    "New painted joystick (gold knob in a dark socket ring), pause button and skin arrows, plus gold-cornered frames on the racer preview, round intro, traps list, eliminated and spectator panels."
+   ]
+  },
+  {
    "version": "0.1.33",
    "code": 33,
    "date": "2026-10-28",
