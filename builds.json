@@ -3,6 +3,19 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.35",
+   "code": 35,
+   "date": "2026-11-04",
+   "size": 368673078,
+   "sha256": "6ff955a31b49c0440cb2f568d8ada6baa3f17ba2ad50ebfba637e05ea2efb26b",
+   "file": "ChibyRace-0.1.35.apk",
+   "notes": [
+    "Test build of the new Fjord course, \"Fjord Village\" (first on the MAP button): harbour start, climbing, the village road and six trap sections to the finish.",
+    "Built from the ChibyRace-Test project, so it also has that project's newer menus and map themes.",
+    "Bigger download (352 MB): the new terrain and menu art aren't optimised for phones yet."
+   ]
+  },
+  {
    "version": "0.1.34",
    "code": 34,
    "date": "2026-10-28",
