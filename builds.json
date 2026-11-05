@@ -3,6 +3,19 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.40",
+   "code": 40,
+   "date": "2026-11-05",
+   "size": 384291693,
+   "sha256": "bc3cae3edd0b5fbb039b5f7cb44f8c693b231d215fdb6c3ad3b9211aa056965f",
+   "file": "ChibyRace-0.1.40.apk",
+   "notes": [
+    "Fjord Village showcase: every race goes through one of the four barns in turn (Timber Workshop, Stable Stalls, Chopping Hall, Storage Labyrinth) and climbs the boulder Vine Wall.",
+    "The menu no longer draws the 3D course hidden behind it: much less GPU work (and heat) while you're in the menus.",
+    "Performance log as in 0.1.39 (Downloads/ChibyRace)."
+   ]
+  },
+  {
    "version": "0.1.39",
    "code": 39,
    "date": "2026-11-05",
