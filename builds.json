@@ -3,6 +3,19 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.38",
+   "code": 38,
+   "date": "2026-11-05",
+   "size": 384276449,
+   "sha256": "d1bc049ba791518a2d9feedefaaca2b7b385bab7abed396b65c9e8b82365ef24",
+   "file": "ChibyRace-0.1.38.apk",
+   "notes": [
+    "Racer pictures are back in the character bubbles on the menu.",
+    "The menu's painted background now fills the whole screen, including the strip beside the phone's camera cut-out (the course showed through there).",
+    "Same content as 0.1.37 otherwise: the latest Fjord Village and the harbour sweeper in SHOW!."
+   ]
+  },
+  {
    "version": "0.1.37",
    "code": 37,
    "date": "2026-11-05",
