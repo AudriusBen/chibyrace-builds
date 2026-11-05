@@ -3,6 +3,19 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.37",
+   "code": 37,
+   "date": "2026-11-05",
+   "size": 384271733,
+   "sha256": "064a3c5f306f993c65a0966266259f1a3472beb6f8e592d01b259955ea56b3de",
+   "file": "ChibyRace-0.1.37.apk",
+   "notes": [
+    "Test build of the latest Fjord Village course with today's changes (first on the MAP button).",
+    "SHOW! started on Fjord Village: the sweeper round is the new Fjord harbour sweeper arena.",
+    "Built from the ChibyRace-Test project. Still a big download (366 MB); installs over 0.1.35."
+   ]
+  },
+  {
    "version": "0.1.35",
    "code": 35,
    "date": "2026-11-04",
