@@ -3,6 +3,18 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.42",
+   "code": 42,
+   "date": "2026-11-05",
+   "size": 404064763,
+   "sha256": "5083ee3623866fb6030e2b9b74830e69585b9a5d031a6861ac7767506756c6d7",
+   "file": "ChibyRace-0.1.42.apk",
+   "notes": [
+    "Fjord Village Lite: houses, quays and halls get simpler versions with distance (small pieces left out from ~70 m, everything under 2 m from ~160 m). In the editor that's about half the draw calls and 25–50% fewer triangles than the original Fjord Village.",
+    "The original Fjord Village is still unchanged for comparison."
+   ]
+  },
+  {
    "version": "0.1.41",
    "code": 41,
    "date": "2026-11-05",
