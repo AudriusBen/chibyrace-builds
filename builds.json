@@ -3,6 +3,19 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.41",
+   "code": 41,
+   "date": "2026-11-05",
+   "size": 399611517,
+   "sha256": "2132819a453e8291ad17b1d57c6a2fd5450c040cddd5001b36204edbbdf4b3da",
+   "file": "ChibyRace-0.1.41.apk",
+   "notes": [
+    "New map entry \"Fjord Village Lite\" (second on the MAP button): the same course as Fjord Village, made lighter for phones. Scenery is merged, small things disappear with distance, small things and scatter cast no shadows, and the big terrain is cut up so what's off screen isn't drawn.",
+    "The original Fjord Village is unchanged, so the two can be compared with the performance log (Downloads/ChibyRace).",
+    "Barn and boulder showcase as in 0.1.40."
+   ]
+  },
+  {
    "version": "0.1.40",
    "code": 40,
    "date": "2026-11-05",
