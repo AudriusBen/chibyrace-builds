@@ -3,6 +3,19 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.43",
+   "code": 43,
+   "date": "2026-11-06",
+   "size": 406120161,
+   "sha256": "2b7597e199a3d734a6346c2a496c509bfd34a8fd900d197ea3a99ba35b371e0b",
+   "file": "ChibyRace-0.1.43.apk",
+   "notes": [
+    "Fjord Village Lite: the big harbour terrain also gets simpler versions with distance (35% of its triangles from ~90 m, 12% from ~250 m), on top of the simpler houses.",
+    "In the editor Lite now draws 33–56% fewer triangles than the original Fjord Village, with about a third to half fewer draw calls.",
+    "The original Fjord Village is still there unchanged for comparison."
+   ]
+  },
+  {
    "version": "0.1.42",
    "code": 42,
    "date": "2026-11-05",
