@@ -3,6 +3,20 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.46",
+   "code": 46,
+   "date": "2026-11-06",
+   "size": 405932025,
+   "sha256": "09de66c27bf0df582ccdbcf22701ee1210a918b43504fe31acd2883dc6d11528",
+   "file": "ChibyRace-0.1.46.apk",
+   "notes": [
+    "Fjord Village: the crate climb is now the Stump Climb, tall cut pine stumps in a natural earth-and-rock pit with chopped logs and a woodcutter's axe on the banks.",
+    "Boulder Climb without the floating hoist load; the Broken Bridge steps are pile clusters of the old crossing; the Pendulum Bridge is now the Ram Bridge (swinging log rams); the gorge under Tumble Tiles and Axe Bridge has natural banks.",
+    "Falling Jetty: three lanes of planks that drop separately and come back quickly, so a slower racer still gets across; wider and lined up with the road on the far shore.",
+    "Test build: every offline race shows the new Fjord versions (and the barns) in turn."
+   ]
+  },
+  {
    "version": "0.1.44",
    "code": 44,
    "date": "2026-11-06",
@@ -23,7 +37,7 @@
    "file": "ChibyRace-0.1.43.apk",
    "notes": [
     "Fjord Village Lite: the big harbour terrain also gets simpler versions with distance (35% of its triangles from ~90 m, 12% from ~250 m), on top of the simpler houses.",
-    "In the editor Lite now draws 33–56% fewer triangles than the original Fjord Village, with about a third to half fewer draw calls.",
+    "In the editor Lite now draws 33\u201356% fewer triangles than the original Fjord Village, with about a third to half fewer draw calls.",
     "The original Fjord Village is still there unchanged for comparison."
    ]
   },
@@ -35,7 +49,7 @@
    "sha256": "5083ee3623866fb6030e2b9b74830e69585b9a5d031a6861ac7767506756c6d7",
    "file": "ChibyRace-0.1.42.apk",
    "notes": [
-    "Fjord Village Lite: houses, quays and halls get simpler versions with distance (small pieces left out from ~70 m, everything under 2 m from ~160 m). In the editor that's about half the draw calls and 25–50% fewer triangles than the original Fjord Village.",
+    "Fjord Village Lite: houses, quays and halls get simpler versions with distance (small pieces left out from ~70 m, everything under 2 m from ~160 m). In the editor that's about half the draw calls and 25\u201350% fewer triangles than the original Fjord Village.",
     "The original Fjord Village is still unchanged for comparison."
    ]
   },
