@@ -3,6 +3,18 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.44",
+   "code": 44,
+   "date": "2026-11-06",
+   "size": 403825036,
+   "sha256": "02b9abafb81cd38423caab9db2343047ad1b7d4351e421adc397c39a120b78d7",
+   "file": "ChibyRace-0.1.44.apk",
+   "notes": [
+    "Fjord Village (both versions) only rolls traps that fit the village: the generic crate climb, stepping crates, sweeper bars, spike field, saw lanes and hurdle yard are out until Fjord-built versions exist.",
+    "Climbs are now Vine Wall, Barrel Ramp or Log Ramp; section 4 is always one of the four barns; the last section is Tumble Tiles or Axe Bridge."
+   ]
+  },
+  {
    "version": "0.1.43",
    "code": 43,
    "date": "2026-11-06",
