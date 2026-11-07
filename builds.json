@@ -3,6 +3,20 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.49",
+   "code": 49,
+   "date": "2026-11-07",
+   "size": 411233399,
+   "sha256": "af51b881d46da3e6e8681bcd20803a4778d44a0d7c541fc7ba8f8f460915c91a",
+   "file": "ChibyRace-0.1.49.apk",
+   "notes": [
+    "Fjord Village: the stream the road crosses after the cargo platforms gorge has a timber road bridge instead of a flat plank slab. Its boards lie on beams that rest on log sills along both banks, on stones, with a post-and-rail fence each side, and it now runs along the road, which crosses the stream at a slant.",
+    "The stream starts at a spring: its water comes out from under a mossy rock outcrop, with stones, reeds and grass along its first metres (before, it began as a square edge on the grass).",
+    "Axe Bridge: the thin strip of terrain left standing in the gorge to the right of the bridge is gone; the gorge itself is unchanged.",
+    "Test build: every offline race shows the new Fjord versions (and the barns) in turn."
+   ]
+  },
+  {
    "version": "0.1.48",
    "code": 48,
    "date": "2026-11-07",
