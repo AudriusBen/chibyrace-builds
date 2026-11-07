@@ -3,6 +3,21 @@
  "minAndroid": "7.1",
  "builds": [
   {
+   "version": "0.1.48",
+   "code": 48,
+   "date": "2026-11-07",
+   "size": 410629784,
+   "sha256": "be20cb448817c57953cd6b21e7528dd2443ace40da4744d94c003a960a56fc13",
+   "file": "ChibyRace-0.1.48.apk",
+   "notes": [
+    "Fjord Village: the finish square is a market laid out by trade. Fish stalls, a smoke stand and a drying rack where the shore lane comes up from the harbour; vegetables, roots, the farm cart, hay and a sheep pen where the farm lane comes in from the hills; bread, wool and cheese at the hall's corners; drinks facing the bridge for arrivals. Worn earth trodden up to every counter, bunting tied between banner poles.",
+    "Log Ramp: the logs come from a wind sawmill at the top, its sails turning. The bare gantry is now a timber log deck running into the mill, with a frame saw on it, log piles beside the ramp and stacks of sawn planks.",
+    "Barrel Ramp: the barrels come from a brewery at the top: a Norse brewhouse with its brewing kettle, a gangway and a jib crane up to the deck, barrel racks and a cooper's shed.",
+    "Tethered Cargo Rafts are real log rafts with cargo, moored by ropes to posts on the quay and the far shore. The Cargo Platforms hang from pulley blocks on ropes strung between timber truss girders over the gorge.",
+    "Test build: every offline race shows the new Fjord versions (and the barns) in turn."
+   ]
+  },
+  {
    "version": "0.1.46",
    "code": 46,
    "date": "2026-11-06",
